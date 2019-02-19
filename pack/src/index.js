@@ -27,10 +27,6 @@ function parseDepend(filename) {
     sourceType: "module"
   });
 
-  console.log("============ ast start");
-  console.log(ast);
-  console.log("============ ast end");
-
   traverse(ast, {
     ImportDeclaration: function({ node }) {
       dependencies.push(node.source.value);
