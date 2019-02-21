@@ -9,3 +9,4 @@
 - [call](./this/call.js)
 - [create](./this/create.js)
 - [new](./this/new.js)
+- [promise](./promise/test.js)
