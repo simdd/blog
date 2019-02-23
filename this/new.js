@@ -1,3 +1,7 @@
+/**
+ * mock new
+ **/
+
 function mockNew() {
   let Fn = Array.prototype.shift.call(arguments);
   let args = arguments;

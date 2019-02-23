@@ -1,3 +1,7 @@
+/**
+ * mock Object.create
+ **/
+
 Object.prototype.mockCreate = function(Parent) {
   let obj = {};
   obj.__proto__ = Parent;

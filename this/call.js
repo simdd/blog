@@ -1,3 +1,7 @@
+/**
+ * mock call
+ **/
+
 a = 0;
 
 var obj = {
