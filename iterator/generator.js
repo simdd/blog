@@ -1,15 +1,26 @@
-function* foo(x) {
-  var y = 2 * (yield x + 1);
-  var z = yield y / 3;
-  return x + y + z;
+function iterator(arr) {
+  var idx = 0;
+  return {
+    next: function() {
+      return idx < arr.length
+        ? {
+            value: arr[idx++],
+            done: false
+          }
+        : {
+            value: "",
+            done: true
+          };
+    }
+  };
 }
 
-var a = foo(5);
+let arr = [1, 2];
+let iterator1 = iterator(arr);
+console.log(iterator1.next());
+console.log(iterator1.next());
+console.log(iterator1.next());
 
-for (let i of a) {
-  console.log(i);
-}
-
-console.log(a.next()); // Object{value:6, done:false}
-console.log(a.next()); // Object{value:NaN, done:false}
-console.log(a.next()); // Object{value:NaN, done:true}
+// { value: 1, done: false }
+// { value: 2, done: false }
+// { value: '', done: true }
