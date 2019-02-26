@@ -14,3 +14,4 @@
 - [generator](./iterator/generator.js)
 - [oterator object](./iterator/object.js)
 - [thunk](./iterator/thunk.js)
+- [watch](./watch)
