@@ -1,8 +1,14 @@
-### DIY
+### BLOG
 
-#### 纸上得来终觉浅，绝知此事要躬行
+#### 学而不思则罔
+
+- [【译】【Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
 
 ---
+
+### DIY
+
+#### 思而不学则殆
 
 - [commonJS 模块加载](./pack/src/index.js)
 - [继承](./inherit)
