@@ -40,4 +40,4 @@
 
 > 纷吾既有此内美兮
 
-[stackoverflow](https://stackoverflow.com/users/5185187/simdd?tab=topactivity)
+[stackoverflow](https://stackoverflow.com/users/5185187/simdd)
