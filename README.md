@@ -1,7 +1,8 @@
 ### BLOG
 > 学而不思则罔
 
-- [【译】【Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
+- [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
+- [【译】Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
 
 
 
