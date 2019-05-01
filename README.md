@@ -1,5 +1,6 @@
 ### BLOG
 
+- [依赖收集、虚拟 dom、脏检查.md](https://github.com/simdd/diy/issues/4)
 - [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
 - [【译】Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
 
