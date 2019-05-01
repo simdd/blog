@@ -1,10 +1,14 @@
 ### BLOG
 
-- [依赖收集、虚拟 dom、脏检查.md](https://github.com/simdd/diy/issues/4)
+> 学而不思则罔
+
+- [依赖收集、虚拟 dom 与脏检查](https://github.com/simdd/diy/issues/4)
 - [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
 - [【译】Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
 
 ### DIY
+
+> 纸上得来终觉浅
 
 - [commonJS 模块加载](./diy/pack/src/index.js)
 - [继承](./diy/inherit)
@@ -19,6 +23,8 @@
 - [watch](./diy/watch)
 
 ### XMIND
+
+> 如琢如磨
 
 - [css](./xmind/css.xmind)
 - [js 基础](./xmind/js基础.xmind)
