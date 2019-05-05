@@ -2,6 +2,7 @@
 
 > 学而不思则罔
 
+- [前端异常采集与错误监控 - Sentry](https://github.com/simdd/blog/issues/5)
 - [依赖收集、虚拟 dom 与脏检查](https://github.com/simdd/diy/issues/4)
 - [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
 - [【译】Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
