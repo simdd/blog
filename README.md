@@ -1,15 +1,11 @@
 ### BLOG
 
-> 学而不思则罔
-
 - [前端异常采集与错误监控 - Sentry](https://github.com/simdd/blog/issues/5)
 - [依赖收集、虚拟 dom 与脏检查](https://github.com/simdd/diy/issues/4)
 - [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
 - [【译】Javascript - 真正的原型继承](https://github.com/simdd/diy/issues/1)
 
 ### DIY
-
-> 纸上得来终觉浅
 
 - [commonJS 模块加载](./diy/pack/src/index.js)
 - [继承](./diy/inherit)
@@ -25,8 +21,6 @@
 
 ### XMIND
 
-> 如琢如磨
-
 - [css](./xmind/css.xmind)
 - [js 基础](./xmind/js基础.xmind)
 - [es6](./xmind/es6.xmind)
@@ -38,7 +32,5 @@
 - [docker](./xmind/docker.xmind)
 
 ### ABOUT
-
-> 纷吾既有此内美兮
 
 [stackoverflow](https://stackoverflow.com/users/5185187/simdd)
