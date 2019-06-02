@@ -1,5 +1,6 @@
 ### BLOG
 
+- [前端性能调试与优化.md](https://github.com/simdd/blog/issues/6)
 - [前端异常采集与错误监控 - Sentry](https://github.com/simdd/blog/issues/5)
 - [依赖收集、虚拟 dom 与脏检查](https://github.com/simdd/diy/issues/4)
 - [Javascript - 异步、事件循环与单线程](https://github.com/simdd/diy/issues/3)
