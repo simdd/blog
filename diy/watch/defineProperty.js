@@ -23,5 +23,5 @@ watch(obj, 'age', function(newValue) {
 })
 
 obj.name = 'b'
-obj.age = 13
+obj.age = 12
 console.log(obj.age)
